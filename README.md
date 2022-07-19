@@ -1,7 +1,6 @@
 # stream-deck-icons
 
 *Free icon packs for Elgato Stream Deck*
-
 <br>
 
 #### Quick Links
