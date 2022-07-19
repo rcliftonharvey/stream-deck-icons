@@ -55,7 +55,7 @@ Enjoy!
 
 Any icon packs released in this repository are MIT licensed. In short, this means "they're free, do whatever you want with them."
 
-A [full version of the MIT license](https://github.com/rcliftonharvey/stream-deck-icons/blob/main/LICENSE) can be found in the root of this repository. The sources of the individual icon packs will also contain files that mention the MIT licenses.
+A full version of the [MIT license](https://github.com/rcliftonharvey/stream-deck-icons/blob/main/LICENSE) can be found in the root of this repository. The sources of the individual icon packs will also contain files that mention the MIT licenses.
 
 <br>
 
