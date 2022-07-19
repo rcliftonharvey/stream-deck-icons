@@ -61,6 +61,6 @@ A full version of the [MIT license](https://github.com/rcliftonharvey/stream-dec
 ## Support
 I started creating these icon packs for my own use, out of necessity. These are not meant to be commercial products, "I am not a company", I don't make any money off their creation, distribution or maintenance.
 
-But if you find any bugs, or if you have any suggestions for improvements, please feel free to report them in the [issue tracker](https://github.com/rcliftonharvey/stream-deck-icons/issues), I'll have a look there every now and then.
+But if you find any bugs, or if you have any suggestions for improvements, please feel free to report them in the [issue tracker](https://github.com/rcliftonharvey/stream-deck-icons/issues), I may have a look there every now and then.
 
 Enjoy!
