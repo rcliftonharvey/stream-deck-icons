@@ -1,9 +1,9 @@
 {
     "Name": "Simple Gray Tones",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "5 very simple background icons in monochromous gray tones. Use these in combination with text titles to add some subtle structure to your Stream Deck buttons.",
     "Author": "Rob Clifton-Harvey",
     "URL": "https://clifton-harvey.com/",
-    "Icon": "icon.png",
+    "Icon": "Icon Simple Gray Tones.png",
     "License": "license.txt"
 }
