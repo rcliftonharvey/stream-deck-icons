@@ -23,7 +23,7 @@ In other words: for anything that involves a background colour, however trivial 
 
 So that's what I did.
 
-The first 3 icon packs (Simple Bright Colours, Simple Dark Colours, Simple Gray Tones) are essentially collections of primitive colours and tones. The Simple Bright Colours are more vivid and eye-catching, the Simple Dark Colours are more dim and laid-back, and the Simple Gray Tones comes with black and white icon backgrounds, as well as three intermediate gray tones.
+The first 3 icon packs (Simple Bright Colours, Simple Dark Colours, Simple Gray Tones) are essentially collections of primitive colours and tones. The Simple Bright Colours are more vivid and eye-catching, the Simple Dark Colours are more dim and laid-back, and the Simple Gray Tones is just black and white icon backgrounds, as well as three intermediate gray tones.
 
 It's nothing revolutionary or ground-breaking, but for me and customizing my Stream Deck, these coloured icon backgrounds have been absolutely essential. If you can put them to use as well - good for the both of us. :)
 
