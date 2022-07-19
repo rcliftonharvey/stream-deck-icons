@@ -25,9 +25,7 @@ So that's what I did.
 
 The first 3 icon packs (Simple Bright Colours, Simple Dark Colours, Simple Gray Tones) are essentially collections of primitive colours and tones. The Simple Bright Colours are more vivid and eye-catching, the Simple Dark Colours are more dim and laid-back, and the Simple Gray Tones comes with black and white icon backgrounds, as well as three intermediate gray tones.
 
-It's nothing revolutionary or ground-breaking, but for me and customizing my Stream Deck, these coloured icon backgrounds have been absolutely essential. If you can put them to use as well - good for both of us. :)
-
-Enjoy!
+It's nothing revolutionary or ground-breaking, but for me and customizing my Stream Deck, these coloured icon backgrounds have been absolutely essential. If you can put them to use as well - good for the both of us. :)
 
 <br>
 
@@ -64,3 +62,5 @@ A full version of the [MIT license](https://github.com/rcliftonharvey/stream-dec
 I started creating these icon packs for my own use, out of necessity. These are not meant to be commercial products, "I am not a company", I don't make any money off their creation, distribution or maintenance.
 
 But if you find any bugs, or if you have any suggestions for improvements, please feel free to report them in the [issue tracker](https://github.com/rcliftonharvey/stream-deck-icons/issues), I'll have a look there every now and then.
+
+Enjoy!
