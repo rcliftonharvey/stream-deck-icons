@@ -1,4 +1,4 @@
-# stream-deck-icons
+# Stream Deck Icons
 
 *Free icon packs for Elgato Stream Deck*
 <br>
