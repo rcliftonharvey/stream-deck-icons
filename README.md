@@ -5,8 +5,8 @@
 
 #### Quick Links
 [About](#about)<br>
-[Installation](#installation)<br>
 [Icon Packs](#icon-packs)<br>
+[Installation](#installation)<br>
 [Downloads](https://github.com/rcliftonharvey/stream-deck-icons/releases)<br>
 [License](#license)<br>
 [Support](#support)
@@ -29,14 +29,6 @@ It's nothing revolutionary or ground-breaking, but for me and customizing my Str
 
 <br>
 
-<a name="installation"></a>
-## Installation
-* The [Elgato Stream Deck software](https://www.elgato.com/downloads) needs to be already installed on your computer.
-* Download the latest version/s from this repository's [Release area](https://github.com/rcliftonharvey/stream-deck-icons/releases).
-* Double-click the downloaded file/s and the Stream Deck software should start the installation procedure.
-
-<br>
-
 <a name="icon-packs"></a>
 ## Icon Packs
 
@@ -45,6 +37,14 @@ It's nothing revolutionary or ground-breaking, but for me and customizing my Str
 | <a name="pack-simple-bright"></a>[![simple_bright_colours](https://user-images.githubusercontent.com/25214726/179643345-13709ac2-2801-4c8a-a44a-c894975a1d10.jpg)](https://github.com/rcliftonharvey/stream-deck-icons/raw/main/Simple%20Bright%20Colours/com.cliftonharvey.simplebrightcolours.sdIconPack/previews/Simple%20Bright%20Colours.png) | Simple Bright Colours | 26 background icons in basic colours with brighter tones. Use these in combination with text titles for eye-catching buttons. |
 | <a name="pack-simple-dark"></a>[![simple_dark_colours](https://user-images.githubusercontent.com/25214726/179643347-5d8cd711-bc74-449a-bf64-8c60d97c5898.jpg)](https://github.com/rcliftonharvey/stream-deck-icons/raw/main/Simple%20Dark%20Colours/com.cliftonharvey.simpledarkcolours.sdIconPack/previews/Simple%20Dark%20Colours.png) | Simple Dark Colours | 21 background icons in basic colours with darker tones. Use these in combination with text titles for buttons that are easy on the eyes. |
 | <a name="pack-simple-gray"></a>[![simple_gray_tones](https://user-images.githubusercontent.com/25214726/179643348-1a9b44c3-ee54-4847-950d-0e40c7c7320c.jpg)](https://github.com/rcliftonharvey/stream-deck-icons/raw/main/Simple%20Gray%20Tones/com.cliftonharvey.simplegraytones.sdIconPack/previews/Simple%20Gray%20Tones.png) | Simple Gray Tones | 5 very simple background icons in monochromous gray tones. Use these in combination with text titles to add some subtle structure to your Stream Deck buttons. |
+
+<br>
+
+<a name="installation"></a>
+## Installation
+* The [Elgato Stream Deck software](https://www.elgato.com/downloads) needs to be already installed on your computer.
+* Download the latest version/s from this repository's [Release area](https://github.com/rcliftonharvey/stream-deck-icons/releases).
+* Double-click the downloaded file/s and the Stream Deck software should start the installation procedure.
 
 <br>
 
