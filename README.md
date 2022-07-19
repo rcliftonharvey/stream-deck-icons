@@ -34,7 +34,7 @@ Enjoy!
 <a name="installation"></a>
 ## Installation
 * The [Elgato Stream Deck software](https://www.elgato.com/downloads) needs to be already installed on your computer.
-* Download the latest version/s from this repository's [Release area](https://github.com/rcliftonharvey/stream-deck-icons/releases)-
+* Download the latest version/s from this repository's [Release area](https://github.com/rcliftonharvey/stream-deck-icons/releases).
 * Double-click the downloaded file/s and the Stream Deck software should start the installation procedure.
 
 <br>
