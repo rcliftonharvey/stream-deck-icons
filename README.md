@@ -15,7 +15,7 @@
 
 <a name="about"></a>
 ## About
-I started this repository mainly because the Stream Deck software currently doesn't have a "background colour" setting. You can style the text titles of your Stream Deck buttons any way you want, but only on black background. You currently can't give the button a background colour, why ever that is.
+I started this repository mainly because the Stream Deck software currently doesn't have a "background colour" setting. You can style the text titles of your Stream Deck buttons any way you want, but only on whatever icon is set, either custom or those blue-ish default Elgato icons. You currently can't give the button a background colour, why ever that is.
 
 There's also no way to make the background of a button completely black, if it ever had an icon assigned previously. Just deleting a button's icon graphic will make the button revert to a default blue-ish icon provided by Elgato.
 
