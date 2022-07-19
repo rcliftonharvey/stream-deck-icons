@@ -1,0 +1,269 @@
+[
+    {
+        "path": "Red Light.png",
+        "name": "Red Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "red",
+            "light"
+        ]
+    },
+    {
+        "path": "Mauve Light.png",
+        "name": "Mauve Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "mauve",
+            "light",
+            "red",
+            "purple"
+        ]
+    },
+    {
+        "path": "Mauve Dark.png",
+        "name": "Mauve Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "mauve",
+            "red",
+            "purple"
+        ]
+    },
+    {
+        "path": "Purple Light.png",
+        "name": "Purple Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "purple",
+            "light",
+            "lilac"
+        ]
+    },
+    {
+        "path": "Purple Dark.png",
+        "name": "Purple Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "purple",
+            "lilac"
+        ]
+    },
+    {
+        "path": "Blue Dark.png",
+        "name": "Blue Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "blue",
+            "navy"
+        ]
+    },
+    {
+        "path": "Blue Light.png",
+        "name": "Blue Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "blue",
+            "light",
+            "navy"
+        ]
+    },
+    {
+        "path": "Cyan Light.png",
+        "name": "Cyan Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "cyan",
+            "light",
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "path": "Cyan Dark.png",
+        "name": "Cyan Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "cyan",
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "path": "Green Light.png",
+        "name": "Green Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "green",
+            "light"
+        ]
+    },
+    {
+        "path": "Green Dark.png",
+        "name": "Green Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "green"
+        ]
+    },
+    {
+        "path": "Lime Light.png",
+        "name": "Lime Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "lime",
+            "light",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "path": "Lime Dark.png",
+        "name": "Lime Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "lime",
+            "green",
+            "yellow"
+        ]
+    },
+    {
+        "path": "Yellow Light.png",
+        "name": "Yellow Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "yellow",
+            "light"
+        ]
+    },
+    {
+        "path": "Yellow Dark.png",
+        "name": "Yellow Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "yellow"
+        ]
+    },
+    {
+        "path": "Sand.png",
+        "name": "Sand",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "sand",
+            "light",
+            "brown"
+        ]
+    },
+    {
+        "path": "Brown Light.png",
+        "name": "Brown Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "brown",
+            "light",
+            "sand"
+        ]
+    },
+    {
+        "path": "Brown Dark.png",
+        "name": "Brown Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "brown",
+            "sand"
+        ]
+    },
+    {
+        "path": "Orange Light.png",
+        "name": "Orange Light",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "orange",
+            "light",
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "path": "Orange Dark.png",
+        "name": "Orange Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "orange",
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "path": "Red Dark.png",
+        "name": "Red Dark",
+        "tags": [
+            "colour",
+            "color",
+            "dark",
+            "dim",
+            "red",
+            "maroon",
+            "burgundy"
+        ]
+    }
+]

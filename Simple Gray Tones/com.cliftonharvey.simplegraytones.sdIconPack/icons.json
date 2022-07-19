@@ -1,0 +1,78 @@
+[
+    {
+        "path": "Black.png",
+        "name": "Black",
+        "tags": [
+            "colour",
+            "color",
+            "gray",
+            "grey",
+            "tone",
+            "monochrome",
+            "black",
+            "schwarz",
+            "noir",
+            "blank"
+        ]
+    },
+    {
+        "path": "Gray Dark.png",
+        "name": "Gray Dark",
+        "tags": [
+            "colour",
+            "color",
+            "gray",
+            "grau",
+            "gris",
+            "tone",
+            "monochrome",
+            "dark"
+        ]
+    },
+    {
+        "path": "Gray.png",
+        "name": "Gray",
+        "tags": [
+            "colour",
+            "color",
+            "gray",
+            "grey",
+            "grau",
+            "gris",
+            "tone",
+            "monochrome"
+        ]
+    },
+    {
+        "path": "Gray Light.png",
+        "name": "Gray Light",
+        "tags": [
+            "colour",
+            "color",
+            "gray",
+            "grey",
+            "grau",
+            "gris",
+            "tone",
+            "monochrome",
+            "light"
+        ]
+    },
+    {
+        "path": "White.png",
+        "name": "White",
+        "tags": [
+            "colour",
+            "color",
+            "gray",
+            "grey",
+            "grau",
+            "gris",
+            "tone",
+            "monochrome",
+            "white",
+            "wei",
+            "blanc"
+        ]
+    }
+]

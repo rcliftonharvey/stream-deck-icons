@@ -1,0 +1,320 @@
+[
+    {
+        "path": "Red Full.png",
+        "name": "Red Full",
+        "tags": [
+            "color",
+            "colour",
+            "red",
+            "full",
+            "bright"
+        ]
+    },
+    {
+        "path": "Mauve Full.png",
+        "name": "Mauve Full",
+        "tags": [
+            "color",
+            "colour",
+            "mauve",
+            "full",
+            "bright",
+            "magenta"
+        ]
+    },
+    {
+        "path": "Fuchsia Full.png",
+        "name": "Fuchsia Full",
+        "tags": [
+            "color",
+            "colour",
+            "fuchsia",
+            "full",
+            "bright",
+            "pink"
+        ]
+    },
+    {
+        "path": "Magenta Half.png",
+        "name": "Magenta Half",
+        "tags": [
+            "color",
+            "colour",
+            "magenta",
+            "half",
+            "bright",
+            "pink",
+            "purple",
+            "dark"
+        ]
+    },
+    {
+        "path": "Magenta Full.png",
+        "name": "Magenta Full",
+        "tags": [
+            "color",
+            "colour",
+            "magenta",
+            "full",
+            "bright",
+            "pink"
+        ]
+    },
+    {
+        "path": "Pink Half.png",
+        "name": "Pink Half",
+        "tags": [
+            "color",
+            "colour",
+            "pink",
+            "half",
+            "bright",
+            "magenta",
+            "dark"
+        ]
+    },
+    {
+        "path": "Pink Full.png",
+        "name": "Pink Full",
+        "tags": [
+            "color",
+            "colour",
+            "pink",
+            "full",
+            "bright",
+            "rose",
+            "rosa"
+        ]
+    },
+    {
+        "path": "Pink Bright.png",
+        "name": "Pink Bright",
+        "tags": [
+            "color",
+            "colour",
+            "pink",
+            "bright",
+            "rose",
+            "rosa",
+            "light"
+        ]
+    },
+    {
+        "path": "Purple Full.png",
+        "name": "Purple Full",
+        "tags": [
+            "color",
+            "colour",
+            "purple",
+            "full",
+            "bright",
+            "lilac"
+        ]
+    },
+    {
+        "path": "Purple Half.png",
+        "name": "Purple Half",
+        "tags": [
+            "color",
+            "colour",
+            "purple",
+            "half",
+            "bright",
+            "lilac",
+            "dark"
+        ]
+    },
+    {
+        "path": "Blue Half.png",
+        "name": "Blue Half",
+        "tags": [
+            "color",
+            "colour",
+            "blue",
+            "half",
+            "bright",
+            "dark"
+        ]
+    },
+    {
+        "path": "Blue Full.png",
+        "name": "Blue Full",
+        "tags": [
+            "color",
+            "colour",
+            "blue",
+            "full",
+            "bright"
+        ]
+    },
+    {
+        "path": "Cyan Half.png",
+        "name": "Cyan Half",
+        "tags": [
+            "color",
+            "colour",
+            "cyan",
+            "half",
+            "bright",
+            "blue",
+            "green",
+            "dark"
+        ]
+    },
+    {
+        "path": "Cyan Full.png",
+        "name": "Cyan Full",
+        "tags": [
+            "color",
+            "colour",
+            "cyan",
+            "full",
+            "bright",
+            "blue",
+            "green"
+        ]
+    },
+    {
+        "path": "Mint Half.png",
+        "name": "Mint Half",
+        "tags": [
+            "color",
+            "colour",
+            "mint",
+            "half",
+            "bright",
+            "dark"
+        ]
+    },
+    {
+        "path": "Mint Full.png",
+        "name": "Mint Full",
+        "tags": [
+            "color",
+            "colour",
+            "mint",
+            "full",
+            "bright",
+            "green"
+        ]
+    },
+    {
+        "path": "Green Half.png",
+        "name": "Green Half",
+        "tags": [
+            "color",
+            "colour",
+            "green",
+            "half",
+            "bright",
+            "dark"
+        ]
+    },
+    {
+        "path": "Green Full.png",
+        "name": "Green Full",
+        "tags": [
+            "color",
+            "colour",
+            "green",
+            "full",
+            "bright"
+        ]
+    },
+    {
+        "path": "Lime Half.png",
+        "name": "Lime Half",
+        "tags": [
+            "color",
+            "colour",
+            "lime",
+            "half",
+            "bright",
+            "green",
+            "dark"
+        ]
+    },
+    {
+        "path": "Lime Full.png",
+        "name": "Lime Full",
+        "tags": [
+            "color",
+            "colour",
+            "lime",
+            "full",
+            "bright",
+            "green"
+        ]
+    },
+    {
+        "path": "Yellow Half.png",
+        "name": "Yellow Half",
+        "tags": [
+            "color",
+            "colour",
+            "yellow",
+            "half",
+            "bright",
+            "dark"
+        ]
+    },
+    {
+        "path": "Yellow Full.png",
+        "name": "Yellow Full",
+        "tags": [
+            "color",
+            "colour",
+            "yellow",
+            "full",
+            "bright"
+        ]
+    },
+    {
+        "path": "Orange Full.png",
+        "name": "Orange Full",
+        "tags": [
+            "color",
+            "colour",
+            "orange",
+            "full",
+            "bright",
+            "red",
+            "yellow"
+        ]
+    },
+    {
+        "path": "Brown Full.png",
+        "name": "Brown Full",
+        "tags": [
+            "color",
+            "colour",
+            "brown",
+            "full",
+            "bright"
+        ]
+    },
+    {
+        "path": "Brown Half.png",
+        "name": "Brown Half",
+        "tags": [
+            "color",
+            "colour",
+            "brown",
+            "half",
+            "bright",
+            "dark"
+        ]
+    },
+    {
+        "path": "Red Half.png",
+        "name": "Red Half",
+        "tags": [
+            "color",
+            "colour",
+            "red",
+            "half",
+            "bright",
+            "dark"
+        ]
+    }
+]
