@@ -47,7 +47,7 @@ It's nothing revolutionary or ground-breaking, but for me and customizing my Str
 
 <br>
 
-**Alternatively**, if you wish to install the GitHub binaries without using the Elgato Store:
+**Alternatively**, if you wish to install the GitHub releases without using the Elgato Store:
 * The [Elgato Stream Deck software](https://www.elgato.com/downloads) needs to be already installed on your computer.
 * Download the latest version/s from this repository's [Release area](https://github.com/rcliftonharvey/stream-deck-icons/releases).
 * Double-click the downloaded file/s and the Stream Deck software should start the installation procedure.
