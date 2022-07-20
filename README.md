@@ -43,9 +43,9 @@ It's nothing revolutionary or ground-breaking, but for me and customizing my Str
 <a name="installation"></a>
 ## Installation
 
-2022-07-20: The icon packs can now be installed directly from the Elgato Stream Deck Icon Store, just filter for "simple" and you should find them, or use the Store Links in the above table.
+**2022-07-20**: The icon packs can now be installed directly from the Elgato Stream Deck Icon Store, just filter for "simple" and you should find them, or use the Store Links in the above table.
 
-If you wish to install the GitHub binaries without using the Elgato Store:
+Alternatively, if you wish to install the GitHub binaries without using the Elgato Store:
 * The [Elgato Stream Deck software](https://www.elgato.com/downloads) needs to be already installed on your computer.
 * Download the latest version/s from this repository's [Release area](https://github.com/rcliftonharvey/stream-deck-icons/releases).
 * Double-click the downloaded file/s and the Stream Deck software should start the installation procedure.
